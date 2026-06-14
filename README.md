@@ -1,11 +1,11 @@
 # onlinecourse_machine_learning
 ## **AI-Powered Personalized Learning Recommendation System**
 
-## 📌 Project Overview
+##  Project Overview
 
  An AI-powered personalized learning recommendation system that analyzes a learner's current skills, interests, and career goals to recommend relevant courses. The system also identifies skill gaps and generates a personalized learning roadmap.
 
-## 🚀 Features
+##  Features
 
 - Skill Gap Analysis
 - Interest-Based Recommendation
@@ -15,7 +15,7 @@
 - Learning Style Recommendation
 - Top Rated Course Suggestions
 
-## 📂 Dataset
+##  Dataset
 
 **Coursera Courses and Skills Dataset 2025**
 
@@ -31,14 +31,14 @@ Dataset contains:
 - Rating
 - Reviews
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Google Colab
 - Pandas
 - NumPy
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
 1. Load the Coursera dataset.
 2. Accept user inputs:
@@ -55,7 +55,7 @@ Dataset contains:
 7. Suggest learning platforms based on learning style.
 8. Display top-rated courses.
 
-## 📊 Example Output
+##  Example Output
 
 ### Input
 
@@ -86,13 +86,10 @@ Dataset contains:
   - Udemy
   - YouTube
 
-## 🎯 Objective
+## Objective
 
 To build an intelligent course recommendation system that helps learners choose suitable courses based on their skills, interests, and career goals.
 
-## 👨‍💻 Author
-
-**Your Name**
 
 ## ⭐ Project Title
 
