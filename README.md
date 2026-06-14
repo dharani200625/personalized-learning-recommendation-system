@@ -1,4 +1,6 @@
-# onlinecourse_machine_learning
+## onlinecourse_machine_learning
+
+## **Project Title**
 ## **AI-Powered Personalized Learning Recommendation System**
 
 ##  Project Overview
@@ -91,6 +93,3 @@ Dataset contains:
 To build an intelligent course recommendation system that helps learners choose suitable courses based on their skills, interests, and career goals.
 
 
-## ⭐ Project Title
-
-**SmartLearn AI: Personalized Learning Recommendation System**
